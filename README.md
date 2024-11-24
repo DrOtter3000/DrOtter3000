@@ -24,7 +24,7 @@ All my games are available on my [itch.io page](https://drotter3000.itch.io/).
 - **Languages:** GDScript, Python
 - **Game Engine:** Godot
 - **Graphics Tools:** Blender, Libresprite, GIMP, Krita
-- **Platforms:** Git, Linux
+- **Other:** Git, Linux
 
 ## GitHub Statistics
 
@@ -34,7 +34,6 @@ All my games are available on my [itch.io page](https://drotter3000.itch.io/).
 
 Let’s connect! Whether you want to share feedback, ideas, or collaborate on open-source game projects, feel free to reach out:
 
-- **Twitter/X:** [@DrOtter3000](https://x.com/DrOtter3000)
 - **Bluesky:** [drotter3000.darknet-online.com](https://bsky.app/profile/drotter3000.darknet-online.com)
 - **Mastodon:** [@drotter3000@gamedev.place](https://mastodon.gamedev.place/@drotter3000)
 - **Twitch:** [twitch.tv/drotter3000](https://www.twitch.tv/drotter3000) (where I sometimes stream my game development progress)
