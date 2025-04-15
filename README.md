@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I’m DrOtter3000, an indie game developer with a passion for open-source projects. Based in Berlin, Germany, I focus on creating unique, Linux-friendly games with Godot and an otter’s creative touch. I’m currently working on "Otter Survivor," a Vampire Survivors-inspired game that challenges players with endless waves of enemies, power-ups, and, of course—otters.
+Hello! I’m DrOtter3000, an indie game developer with a passion for open-source projects. Based in Berlin, Germany, I focus on creating unique, Linux-friendly games with Godot and an otter’s creative touch. I’m currently working on "Midnight Pizza Delivery," a Hades-inspired rougelite ego shooter that challenges players with random levels, full with unique enemies.
 
 - **Based in:** Berlin, Germany
 - **Open to collaborations on:** Open-source games in Godot
