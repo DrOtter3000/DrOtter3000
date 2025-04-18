@@ -1,5 +1,6 @@
 # Welcome to DrOtter3000's GitHub!
 
+
 ## About Me
 
 Hello! I’m DrOtter3000, an indie game developer with a passion for open-source projects. Based in Berlin, Germany, I focus on creating unique, Linux-friendly games with Godot and an otter’s creative touch. I’m currently working on "Midnight Pizza Delivery," a Hades-inspired rougelite ego shooter that challenges players with random levels, full with unique enemies.
@@ -7,6 +8,7 @@ Hello! I’m DrOtter3000, an indie game developer with a passion for open-source
 - **Based in:** Berlin, Germany
 - **Open to collaborations on:** Open-source games in Godot
 - **Always learning:** Spriting, 3D graphics, and Godot game development
+
 
 ## Featured Projects
 
@@ -19,6 +21,7 @@ Here’s a look at some of my favorite projects:
 
 All my games are available on my [itch.io page](https://drotter3000.itch.io/).
 
+
 ## Skills & Technologies
 
 - **Languages:** GDScript, Python
@@ -26,9 +29,13 @@ All my games are available on my [itch.io page](https://drotter3000.itch.io/).
 - **Graphics Tools:** Blender, Libresprite, GIMP, Krita
 - **Other:** Git, Linux
 
+
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrOtter3000&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drotter3000&layout=donut&theme=radical)
+
 
 ## Connect with Me
 
@@ -39,6 +46,7 @@ Let’s connect! Whether you want to share feedback, ideas, or collaborate on op
 - **Twitch:** [twitch.tv/drotter3000](https://www.twitch.tv/drotter3000) (where I sometimes stream my game development progress)
 - **Website:** [darknet-online.com](https://darknet-online.com)
 - **Email:** info[at]darknet-online.com
+
 
 ## Fun Facts
 
